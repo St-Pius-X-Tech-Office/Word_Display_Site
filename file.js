@@ -148,6 +148,8 @@ shuffle(words);
 // Start the game
 start_btn.onclick = function () {
   para.innerHTML = words[0];
+  // Make the button disappear on start  
+  start_btn.style.display = "none";
 };
 
 // Show the previous word in the array on click
