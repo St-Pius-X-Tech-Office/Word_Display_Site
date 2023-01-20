@@ -1,13 +1,10 @@
 address
-admin
 administrator
-app
-application
+application (app)
 avatar
 bandwidth
 banner
 bit
-blog
 blog
 bookmarks
 browse
@@ -17,38 +14,27 @@ byte
 cache
 case-sensitive
 chat
-chat
-click
-click
 clickbait
 clipart
 cloud computing
 comments
-comment
 cookie
 copyright
 database
-developer, web developer
+developer
 digital
 digital communication
 direct message, DM
 domain extension, domain suffix
 Country-code top-level domains
 domain name
-DOS
-denial of service attack
-DNS
-Domain Name System
+denial of service attack (DOS)
+Domain Name System (DNS)
 down
 download
 e-commerce
-email 1
-email 2
-EMF
-electromagnetic fields
-FAQ
-Frequently Asked Questions
-favouritesUK, favoritesUS
+email
+electromagnetic fields (EMF)
 field, form field
 filter, web filter
 firewall
@@ -57,9 +43,8 @@ follower
 format, file format
 forum, web forum
 forward
-FTP
-file transfer protocol
-GB, gigabyte
+file transfer protocol (FTP)
+gigabyte (GB)
 GIF
 go down
 hack
@@ -71,20 +56,15 @@ https
 hyperlink
 icon
 inbox
-internet, Internet
+Internet
 intranet
-IP
-Internet Protocol
+Internet Protocol (IP)
 IP address
-ISP
-internet service provider
-IT
-information technology
+internet service provider (ISP)
+information technology (IT)
 JPG, JPEG
 keyword, keyphrase
-LAN
-local area network
-link
+local area network (LAN)
 link
 log in/log on
 meme
@@ -97,44 +77,41 @@ online
 OP
 password
 phishing
-platform, online platform, digital platform
+platform (online/digital)
 podcast
 print out
 program
 programming language
 protocol
-router, wifi router
+router (wifi router)
 scroll up/down/sideways
 search
 search engine
-SEO
-search engine optimization
+search engine optimization (SEO)
 share
 sign in
 social media
 software program
-spam, spam mail
+spam
 spammer
 subscribe
-switch something off, switch off something
+switch something off
 toolbar
 type in
 up
 upload
 URL
 uniform resource locator
-user ID, userID
+user ID
 username
-virus, computer virus
-WAN
-wide area network
+virus
+wide area network (WAN)
 web
 web hosting
 webmaster
 web page, webpage
 web server
 website
-Wi-Fi, wifi
-wireless LAN, WLAN
-WWW, www
-World Wide Web, world wide web
+Wi-Fi
+wireless LAN (WLAN)
+www
