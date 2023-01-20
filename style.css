@@ -1,6 +1,7 @@
 body {
   background: #1e1e2e;
 }
+
 h1 {
   position: relative;
   text-align: center;
@@ -8,7 +9,7 @@ h1 {
   font-size: 50px;
 }
 
-.blue_p{
+.blue_p {
   color: #eba0ac;
   font-size: 30px;
 }
@@ -24,9 +25,11 @@ p {
   margin: 40px auto;
   text-align: center;
 }
+
 button {
   margin: 20px;
 }
+
 .custom-btn {
   width: 150px;
   height: 50px;
@@ -46,5 +49,6 @@ button {
 }
 
 .Main_P {
-  font-size: 140px;
+  font-size: 100px;
 }
+
